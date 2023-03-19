@@ -1,2 +1,1 @@
-hello
-C programming is awesome
+hello c world
